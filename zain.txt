@@ -4,3 +4,6 @@ sayaa muhammad zain rizqulloh
 
 pakai git stash
 Fitur A
+
+
+stash 2 
