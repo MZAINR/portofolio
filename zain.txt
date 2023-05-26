@@ -6,4 +6,4 @@ pakai git stash
 Fitur A
 
 
-stash 2 
+git stash 2
