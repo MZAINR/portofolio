@@ -8,3 +8,4 @@ Fitur A
 
 git stash 2
 fitur c
+fitur d
